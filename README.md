@@ -1,6 +1,7 @@
 # Aircraft Nose Landing Gear Design and Structural Analysis
 
-<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/ba817d47-32a3-4121-8b64-9a98599fddd4" />
+<img width="1280" height="764" alt="Screenshot 2026-07-25 010251" src="https://github.com/user-attachments/assets/0340e81f-3a29-4737-93dd-ab8ff3baf7dd" />
+
 
 
 ## Overview
