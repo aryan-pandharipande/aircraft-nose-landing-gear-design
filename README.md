@@ -9,7 +9,7 @@ This project presents the CAD design and structural assessment of an aircraft no
 
 The objective is to design a lightweight and structurally efficient landing gear suitable for a light aircraft while maintaining an acceptable factor of safety.
 
----
+
 
 ## Features
 
@@ -24,7 +24,7 @@ The objective is to design a lightweight and structurally efficient landing gear
 - Fatigue assessment
 - Material comparison
 
----
+
 
 ## Software
 
@@ -33,7 +33,6 @@ The objective is to design a lightweight and structurally efficient landing gear
 - MATLAB (optional)
 - Fusion 360 (optional)
 
----
 
 ## Design Workflow
 
@@ -63,7 +62,7 @@ Design Optimization
 
 Final Validation
 
----
+
 
 ## Analysis
 
@@ -73,21 +72,13 @@ Final Validation
 - Buckling
 - Fatigue
 
----
 
-## Materials Considered
-
-- Aluminium 7075-T6
-- Ti-6Al-4V
-- 300M Steel
-
----
 
 ## Results
 
 (To be updated)
 
----
+
 
 ## Future Improvements
 
@@ -96,7 +87,7 @@ Final Validation
 - CFD interaction with landing gear
 - Weight optimization
 
----
+
 
 ## Author
 
