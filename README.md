@@ -1,5 +1,8 @@
 # Aircraft Nose Landing Gear Design and Structural Analysis
 
+<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/ba817d47-32a3-4121-8b64-9a98599fddd4" />
+
+
 ## Overview
 
 This project presents the CAD design and structural assessment of an aircraft nose landing gear assembly developed using SolidWorks and finite element analysis.
