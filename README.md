@@ -4,6 +4,8 @@
 <img width="1389" height="830" alt="preview" src="https://github.com/user-attachments/assets/7a092e77-caf2-40f5-b97f-6471da8ae0e8" />
 
 
+## Assembly Drawing
+<img width="1432" height="1024" alt="Assembly" src="https://github.com/user-attachments/assets/7c2642ac-7d5f-4503-b6d8-0d36ce3aa1ff" />
 
 
 
