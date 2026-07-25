@@ -98,8 +98,6 @@ Found in the Report and Simulation Files
 ## Future Improvements
 
 - Dynamic landing simulation
-- Topology optimization
-- CFD interaction with landing gear
 - Weight optimization
 
 
