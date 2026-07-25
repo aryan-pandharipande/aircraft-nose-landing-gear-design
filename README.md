@@ -67,6 +67,17 @@ Design Optimization
 Final Validation
 
 
+## Part Images
+<img width="1389" height="868" alt="image" src="https://github.com/user-attachments/assets/96953e6d-3fa3-4fd7-b9d7-260d51083ff5" />
+<img width="1389" height="868" alt="image" src="https://github.com/user-attachments/assets/110ccdb0-fd35-47ff-a024-0d9dbe72f4db" />
+<img width="1389" height="868" alt="image" src="https://github.com/user-attachments/assets/c52d80ea-5b83-4a7b-91c5-2e0aeaa2ac57" />
+<img width="1389" height="868" alt="image" src="https://github.com/user-attachments/assets/310a5568-aa4a-444b-a3eb-fefe4186b4a7" />
+<img width="1389" height="868" alt="image" src="https://github.com/user-attachments/assets/68ff6f13-d061-48e3-9608-42305b94fdd1" />
+<img width="1389" height="868" alt="image" src="https://github.com/user-attachments/assets/011a0424-ed4c-4921-b8e8-3444fa278281" />
+<img width="1389" height="868" alt="image" src="https://github.com/user-attachments/assets/d01a0783-91ba-4bd7-90d2-cd2d7bdbb8b9" />
+
+## Exploded View
+<img width="1389" height="868" alt="image" src="https://github.com/user-attachments/assets/90b0778f-769d-4e3b-bba8-44bcafb60c67" />
 
 ## Analysis
 
@@ -80,7 +91,7 @@ Final Validation
 
 ## Results
 
-(To be updated)
+Found in the Report and Simulation Files
 
 
 
